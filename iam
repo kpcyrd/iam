@@ -1,0 +1,4 @@
+#!/bin/sh
+read x
+cat /etc/iam.txt
+exit 0
